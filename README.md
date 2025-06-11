@@ -34,5 +34,4 @@
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp)](https://skillicons.dev)
 
 ---
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-git-master-xavierforge.vercel.app/api?username=xavierforge&show_icons=true&theme=cobalt" alt="xavierforge" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xavierforge&show_icons=tru&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
