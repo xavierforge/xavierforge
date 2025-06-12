@@ -1,6 +1,7 @@
 # Xavier Yen (Chih-Ying Yen)
 
 <h3 align="center"><img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="waving hand" width="30"> Machine Learning & MLOps Engineer · Rust & Python Enthusiast</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xavierforge&label=Profile%20views&color=0e75b6&style=flat" alt="xavierforge" /> </p>
 
 ---
 
@@ -25,6 +26,8 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,rust,scala,postgres)](https://skillicons.dev)
 
+[![Xavier's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=xavierforge&show_icons=tru&theme=cobalt&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Frameworks
 
 [![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,flask)](https://skillicons.dev)
@@ -37,3 +40,4 @@
 ---
 
 ⚡ Fun fact: I love pizza 🍕 (formerly known as `eatPizza311` — old usernames die hard!)  
+
