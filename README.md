@@ -26,7 +26,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,rust,scala,postgres)](https://skillicons.dev)
 
-[![Xavier's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=xavierforge&show_icons=tru&theme=cobalt&locale=en&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Xavier's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=xavierforge&show_icons=tru&theme=cobalt&locale=en&layout=compact&hide=jupyternotebook&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Frameworks
 
