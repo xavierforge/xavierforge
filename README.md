@@ -13,7 +13,7 @@
 
 📖 Author of **_From Pythonista to Rustacean: A Data Practitioner's First Guide to Rust_**  
 🦀 Building in the Rust ML ecosystem — **Burn**, **Candle**, **PyO3**  
-🤖 Contributing to **[zerostack]([https://github.com/zerostack](https://github.com/gi-dellav/zerostack))** — a lightweight Rust coding agent harness  
+🤖 Contributing to **[zerostack](https://github.com/gi-dellav/zerostack)** — a lightweight Rust coding agent harness  
 🛠️ 5+ years in ML pipelines, MLOps, and cloud-native deployments (K8s, AWS/GCP)  
 📝 Writing on [iThome](https://ithelp.ithome.com.tw/users/20141304/articles) and [xavierforge.dev](https://xavierforge.dev)  
 💌 **xavier@xavierforge.dev**
