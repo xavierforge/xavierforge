@@ -1,7 +1,7 @@
 # Xavier (Chih-Ying) Yen
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=500&color=F97316&vCenter=true&width=520&lines=Data+Engineer;Rust+Author;Forging+AI+Agents+%26+MLOps" alt="Data Engineer · Rust Author · Forging AI Agents & MLOps" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3500&pause=300&color=F97316&vCenter=true&width=520&lines=Data+Engineer;Rust+Author;Forging+AI+Agents+%26+MLOps" alt="Data Engineer · Rust Author · Forging AI Agents & MLOps" />
 </a>
 
 ---
